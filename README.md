@@ -48,6 +48,8 @@ By segmenting users based on actual credit card activity, we can drive better de
   - `trans_num` – Transaction ID
   - `amt` – Transaction amount
 
+You can find the dataset here: https://drive.google.com/file/d/1bgWsmr6XKV08KpoFPrrdlghN2f9xXjaF/view?usp=drive_link
+
 ---
 
 ## ⚙️ Methodology
